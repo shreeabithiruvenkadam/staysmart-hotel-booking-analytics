@@ -30,6 +30,10 @@ Key Results
 - City Hotel bookings: 53,274
 - Resort Hotel bookings: 33,956
 
+Dashboard Preview
+
+![STAYSMART Hotel Booking Dashboard](Dashboard%20screenshot.png)
+
 Project Files
 - Excel workbook containing the analysis
 - Dashboard screenshot
